@@ -1,1 +1,2 @@
 # Data_Visualization
+Bokeh is a Python library for creating interactive visualizations, ranging from simple plots to complex dashboards. It offers three key interfaces: bokeh.models, a low-level interface providing fine control over plot components; bokeh.plotting, a high-level, user-friendly interface built on bokeh.models for easy visualization; and bokeh.layouts, which allows users to arrange multiple plots and glyphs in different layouts.
